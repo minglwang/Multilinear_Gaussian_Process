@@ -14,6 +14,6 @@ The source code includes 4 files:
 
 4. ec_lambda.m" is the L1-regularization with an empirical choice of lambda.
 
-The codes are well documented. 
+The Matlab codes are well documented. 
 
 The variables and functions used in the codes agree with those defined in the paper. 
