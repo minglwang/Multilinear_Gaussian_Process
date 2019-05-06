@@ -1,7 +1,6 @@
 # Multilinear_Gaussian_Process
 
-"Poster.pdf" is the poster from a ERNSI 2018 which provide clear demonstration of the proposed method. 
-
+"Poster.pdf" is the poster for the "European Research Network System Identification (ERNSI) 2018" which provide clear demonstrations of the proposed method. 
 
 The source code for the proposed multilinear Gaussian Process is implemented with Matlab. 
 
