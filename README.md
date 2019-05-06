@@ -1,5 +1,8 @@
 # Multilinear_Gaussian_Process
 
+"Poster.pdf" is the poster from a ERNSI 2018 which provide clear demonstration of the proposed method. 
+
+
 The source code for the proposed multilinear Gaussian Process is implemented with Matlab. 
 
 The code is the realization of Experiment 1 in the paper. However, one can easily adapt it to Experiment 2 and the Fed-batch experiments.
@@ -14,6 +17,7 @@ The source code includes 4 files:
 
 4. ec_lambda.m" is the L1-regularization with an empirical choice of lambda.
 
-The Matlab codes are well documented. 
+The Matlab codes are well documented.
+
 
 The variables and functions used in the codes agree with those defined in the paper. 
