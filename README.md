@@ -4,7 +4,7 @@
   <img width = "620" height = "300" src = "https://user-images.githubusercontent.com/45757826/57382576-7fdd4800-71ad-11e9-8d5f-d02470cd7e9c.png">
  </p>
 
-> The poster for the "European Research Network System Identification (ERNSI) 2018" is available in the repository which provide clear demonstrations of the proposed method.
+> The poster for the "European Research Network System Identification (ERNSI) 2018" is available in the repository which provide clears demonstrations of the proposed method.
 
 # Table of Content
 - [Objective](#objective)
