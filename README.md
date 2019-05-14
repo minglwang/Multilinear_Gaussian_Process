@@ -2,18 +2,17 @@
 
 
 > The poster for the "European Research Network System Identification (ERNSI) 2018" is available in the repository which provide clears demonstrations of the proposed method.
-
+<!-- 
 # Table of Content
 - [Description](#description)
 - [Multilinear Gaussian Process](multi-linear-gp)
 - [L1 Regularization](#l1-regularization)
-- [How to use](#how-to-use)
+- [How to use](#how-to-use)-->
 
-# Description
+<!--# Description-->
 
-# Kinetic model
+<!--# Kinetic model-->
 
-# Multilinear Gaussian Process
+<!--# Multilinear Gaussian Process-->
 
-
-# How to use
+<!--# How to use-->
