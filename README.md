@@ -1,7 +1,7 @@
 # Multilinear_Gaussian_Process
 
 
-> The poster for the "European Research Network System Identification (ERNSI) 2018" is available in the repository which provide clears demonstrations of the proposed method.
+> The [poster](https://github.com/minglwang/Multilinear_Gaussian_Process/blob/master/poster.pdf) for the "European Research Network System Identification (ERNSI) 2018" is available in the repository which provide clears demonstrations of the proposed method.
 <!-- 
 # Table of Content
 - [Description](#description)
