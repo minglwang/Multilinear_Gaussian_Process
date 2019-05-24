@@ -19,9 +19,7 @@
 
 The source code for the proposed algorithm is implemented with Matlab. The code is the realization of Experiment 1. However, one can easily adapt it to Experiment 2 and the Fed-batch experiments. It includes 4 files: 
   - ['main.m'](#) corresponds to the proposed algorithm.
-  - ['gibbs_estimate.m'](#) is the implementation of multilinear GP. 
-
-It is implemented by 3 nested functions: 1) expectation maximization,  2) Gibbs sampling, 3) grid search optimization.
+  - ['gibbs_estimate.m'](#) is the implementation of multilinear GP which includes 3 nested functions: 1) expectation maximization,  2) Gibbs sampling, 3) grid search optimization.
   - ['cv_lambda.m'](#) is the L1-regularization with lambda selected by the cross validation in Algorithm 4.
   - ['ec_lambda.m'](#) is the L1-regularization with an empirical choice of lambda.
 
